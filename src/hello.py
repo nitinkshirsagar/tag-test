@@ -1,1 +1,1 @@
-print("hello github! tag patch version")
+print("hello github! tag minor version")
