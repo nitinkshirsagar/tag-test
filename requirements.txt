@@ -1,0 +1,4 @@
+jsonschema
+packaging
+requests
+tenacity
