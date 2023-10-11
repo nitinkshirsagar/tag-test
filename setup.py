@@ -32,7 +32,7 @@ setup(
     use_scm_version=True,
     setup_requires=["setuptools_scm"],
     description="tag test cases",
-    long_description=load_readme("README.rst"),
+    long_description=load_readme("README.md"),
     python_requires=">=3.7",
     packages=find_namespace_packages(where="src"),
     package_dir={"": "src"},
