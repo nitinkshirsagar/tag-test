@@ -1,2 +1,2 @@
 # tag-test
-tag tests
+automaticaly tag version test
